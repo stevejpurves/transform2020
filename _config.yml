@@ -1,0 +1,8 @@
+title: "Fatiando Transform 2020 Tutorial"
+logo: test_install_output.png
+execute:
+  execute_notebooks: "off"
+notebook_interface: "notebook"
+binder:
+  binderhub_url: "https://mybinder.org"
+  text: "Launch binder"
